@@ -1,0 +1,7 @@
+
+/* Parallax background stars */
+body {
+    background: url('https://www.transparenttextures.com/patterns/stardust.png') repeat, linear-gradient(180deg, #0b0c10, #1f2833);
+    background-attachment: fixed;
+    background-size: cover;
+}
